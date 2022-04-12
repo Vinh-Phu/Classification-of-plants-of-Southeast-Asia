@@ -17,7 +17,9 @@ Computer Vision Track : [Classification of plants of Southeast Asia](https://www
 - Trong repo này là toàn bộ code Notebook được copy từ kaggle nơi đã viết đoạn mã của nhóm khi tham gia cuộc thi bao gồm đoạn mã cá nhân ( là 1 bản copy từ nhóm và tinh chỉnh layer, parameters theo cá nhân ) và đoạn mã cả nhóm ( Đoạn mã hoàn chỉnh đạt 100% public score trên kaggle )
 
 2.1 Đoạn mã nhóm :
+
 Thành viên : Vòng Vĩnh Phú (me), Ngô Phú Thịnh (Lead), Lê Huy Hoàng
+
 - Đoạn code được visualize và balancing data để phù hợp với model. Cụ thể model sử dụng là model InceptionResnet V2 được resize kích cỡ 224x224, batch_size 64
 Bài của nhóm đã được hạng 2 với public score 1.0000 
 <img src="https://cdn.discordapp.com/attachments/783363159020404800/962572141021261864/unknown.png"> 
