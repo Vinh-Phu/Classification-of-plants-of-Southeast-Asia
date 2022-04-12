@@ -18,7 +18,7 @@ Computer Vision Track : [Classification of plants of Southeast Asia](https://www
 
 2.1 Đoạn mã nhóm :
 
-Thành viên : Vòng Vĩnh Phú (me), Ngô Phú Thịnh (Lead), Lê Huy Hoàng
+Thành viên : Vòng Vĩnh Phú (me), [Ngô Phú Thịnh](https://github.com/th1nhng0) (Lead), Lê Huy Hoàng
 
 - Đoạn code được visualize và balancing data để phù hợp với model. Cụ thể model sử dụng là model InceptionResnet V2 được resize kích cỡ 224x224, batch_size 64
 Bài của nhóm đã được hạng 2 với public score 1.0000 
