@@ -6,7 +6,7 @@ This is a project from [ISODS](https://www.isods.org/)
 ## 1. Tổng quan
 1.1 About ISODS [ISODS](https://www.isods.org/)
 
-- The International Society of Data Scientists (or The ISODS), registered as a Massachusetts non-profit, is a professional organization for Data Science and AI practitioners and researchers, which may include Data Scientists, Machine Learning Scientists, AI Scientists, Data Analysts, Data Engineers, Software Engineers, Risk Analysts, Actuaries, Business Analysts, and more, who apply Data Science and AI at work. ISODS promotes Data Science and AI domestically in the United States as well as internationally via activities such as competitions, conferences, training, professional exams, and publications. See our Privacy Policy
+- The International Society of Data Scientists (or The ISODS), registered as a Massachusetts non-profit, is a professional organization for Data Science and AI practitioners and researchers, which may include Data Scientists, Machine Learning Scientists, AI Scientists, Data Analysts, Data Engineers, Software Engineers, Risk Analysts, Actuaries, Business Analysts, and more, who apply Data Science and AI at work. ISODS promotes Data Science and AI domestically in the United States as well as internationally via activities such as competitions, conferences, training, professional exams, and publications
 
 1.2 About Project:
 Computer Vision Track : [Classification of plants of Southeast Asia](https://www.kaggle.com/competitions/classification-of-plants-of-southeast-asia)
